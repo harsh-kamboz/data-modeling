@@ -1,0 +1,16 @@
+{
+  "name": "data_modeling",
+  "version": "1.0.0",
+  "description": "learn data modeling with hitesh choudhary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "author": "Happy Kamboj",
+  "license": "ISC"
+}
